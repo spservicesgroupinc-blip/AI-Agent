@@ -1,0 +1,6 @@
+{
+  "name": "Hays+Sons Change Orders",
+  "description": "Hays+Sons change order workspace PWA. Look up jobs, prepare change orders, track documents, and queue requests offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
